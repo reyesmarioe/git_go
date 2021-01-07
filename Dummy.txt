@@ -1,3 +1,4 @@
 Hello GIT!
 
 In branch b1
+From branch2
